@@ -1,4 +1,4 @@
-Comprehensive Python Cheatsheet branch1 diff4
+Comprehensive Python Cheatsheet branch1 diff5
 ===============================
 <sup>[Download text file](https://raw.githubusercontent.com/gto76/python-cheatsheet/main/README.md), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
 </sup>
